@@ -8,7 +8,8 @@ _Create and run a GitHub Actions workflow._
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+_Congratulations friend, you've completed this course!_  
+_You've now added a fully functioning workflow to your repository!_ 😄😄😄😄
 
 <img src=https://octodex.github.com/images/jetpacktocat.png alt="Mona the Octocat wearing a jetpack and smiling." width=300 align=right>
 
